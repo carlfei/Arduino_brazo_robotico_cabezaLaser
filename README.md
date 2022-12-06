@@ -15,3 +15,7 @@ Todo con el IDE de Arduino.
 
 morse de una letra 
 ![imagen](https://user-images.githubusercontent.com/49040356/205945016-2b5570bd-0ad2-40cf-a159-3cdee01373fa.png)
+
+
+![imagen](https://user-images.githubusercontent.com/49040356/205947128-a002980e-db22-438e-913a-3cef4d1c9ec9.png)
+
